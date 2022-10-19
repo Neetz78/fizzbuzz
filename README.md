@@ -6,4 +6,4 @@ Please fork this repo (you may opt to share a private repo with us to preserve y
 - Create a notebook to demonstrate requests that POST to the container endpoint and print out the response
 - Please explain why you have chosen this model as your demonstration
 
-This is the first time I have ever used Flask, hugging face and gunicorn to anything. I chose this model because I was performing sentiment analysis EDA on amazon_popularity and noticed that this model had good number of verified reviews, and the output made snese to me. That is the main reason I chose this model. I created everything follwoing few blogposts and journal but I seem to have failed in some area as the flask_app is not starting at the docker end.
+In this I have used Flask, hugging face and gunicorn to build a complete model to run a pretrained hugging face model in any location machine using docker. I chose this model because I was performing sentiment analysis EDA on amazon_popularity and noticed that this model had good number of verified reviews, and the output made sense to me. That is the main reason I chose this model. I created everything following few blogposts and journal.
